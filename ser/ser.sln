@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ser", "ser\ser.csproj", "{D9C80099-098B-4CE9-A657-7726DD44299F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C80099-098B-4CE9-A657-7726DD44299F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C80099-098B-4CE9-A657-7726DD44299F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C80099-098B-4CE9-A657-7726DD44299F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C80099-098B-4CE9-A657-7726DD44299F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C79AF1-AA63-4249-AAF4-9358E9632E15}
+	EndGlobalSection
+EndGlobal
